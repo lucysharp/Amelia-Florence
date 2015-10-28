@@ -9,6 +9,6 @@ function cycleImages(){
     }
 
 $(document).ready(function(){
-// run every 7s
+// run every 4s
 setInterval('cycleImages()', 7000);
 })
